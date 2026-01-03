@@ -30,6 +30,7 @@ This project allows users to generate strong, random passwords based on selected
 
 ## 📸 Project Preview
 
+![Password Generator]("C:\Users\91979\OneDrive\Pictures\Screenshots\project.png.png")
 
 
 
